@@ -1,0 +1,4 @@
+brew install python
+#docker， Mac install 小鲸鱼就行
+#spacy
+python -m spacy download en_core_web_sm
